@@ -1,0 +1,2 @@
+GLobal maxMonth: MAR	
+Global maxValue: 73.0	

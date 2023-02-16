@@ -1,0 +1,2 @@
+GLobal maxPopulationCountry: China	
+Global maxPopulationValue: 1008	
