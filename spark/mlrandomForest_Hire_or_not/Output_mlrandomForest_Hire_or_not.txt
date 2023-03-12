@@ -1,0 +1,2 @@
+PRDICTION1 should be N. It is : 0.0 N
+PRDICTION2 should be Y. It is : 1.0 Y

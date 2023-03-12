@@ -1,0 +1,3 @@
+Boston	2.0
+California	15.0
+NewYork	7.5
