@@ -1,0 +1,69 @@
+2023.03.30 11:50:57 INFO  Started: Metals version 0.11.11 in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/karke/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.30 11:50:58 INFO  time: initialize in 1.32s
+2023.03.30 11:51:03 WARN  Build server is not auto-connectable.
+2023.03.30 11:51:03 WARN  no build tool detected in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.03.30 11:51:03 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\kmeans.scala
+Mar 30, 2023 11:51:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2023.03.30 11:51:15 INFO  no build target found for C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\kmeans.scala. Using presentation compiler with project's scala-library version: 3.2.2
+Mar 30, 2023 11:54:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 182
+2023.03.30 11:55:19 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\kmeans.scala
+2023.03.30 12:08:05 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\kmeans.scala
+2023.03.30 12:17:15 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\kmeans.scala
+2023.03.30 12:23:37 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\drive_data\kmeans.scala
+2023.03.30 12:30:28 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\favouriteMovie\avgMovieRating\avgMovieRating.scala
+2023.03.30 12:49:29 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\drive_data\kmeans.scala
+2023.03.30 12:54:28 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\drive_data\kmeans.scala
+2023.04.02 17:37:31 INFO  Started: Metals version 0.11.11 in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/karke/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.02 17:37:34 INFO  time: initialize in 3.75s
+2023.04.02 17:37:36 WARN  Build server is not auto-connectable.
+2023.04.02 17:37:36 WARN  no build tool detected in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.02 18:31:47 INFO  Shutting down server
+2023.04.02 18:31:47 INFO  shutting down Metals
+2023.04.02 18:31:47 INFO  Exiting server
+2023.04.03 11:29:19 INFO  Started: Metals version 0.11.11 in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program' for client Visual Studio Code 1.77.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/karke/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.03 11:29:19 INFO  time: initialize in 0.62s
+2023.04.03 11:29:22 WARN  Build server is not auto-connectable.
+2023.04.03 11:29:22 WARN  no build tool detected in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Apr 03, 2023 11:32:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 82
+2023.04.03 11:35:57 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\uci_cancerData\cancerKmenas.scala
+2023.04.03 11:36:01 INFO  no build target found for C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\uci_cancerData\cancerKmenas.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.03 11:36:03 INFO  time: code lens generation in 5.58s
+2023.04.03 11:39:14 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\uci_cancerData\cancerKmenas.scala
+Apr 03, 2023 11:40:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 433
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023.04.03 11:40:59 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\uci_cancerData\cancerKmenas.scala
+2023.04.03 12:02:34 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\cancerKmenas.scala
+Apr 03, 2023 12:03:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 510
+2023.04.03 12:03:03 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\cancerKmenas.scala
+2023.04.03 12:03:56 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\drive_data\kmeans.scala
+Apr 03, 2023 12:04:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
