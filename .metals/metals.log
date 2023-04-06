@@ -67,3 +67,467 @@ WARNING: Unmatched cancel notification for request id 510
 2023.04.03 12:03:56 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\kmeans\drive_data\kmeans.scala
 Apr 03, 2023 12:04:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Apr 03, 2023 12:14:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:14:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:14:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 1
+java.lang.IndexOutOfBoundsException: 1
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:15:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 0
+java.lang.IndexOutOfBoundsException: 0
+	at scala.collection.LinearSeqOps.apply(LinearSeq.scala:131)
+	at scala.collection.LinearSeqOps.apply$(LinearSeq.scala:128)
+	at scala.collection.immutable.List.apply(List.scala:79)
+	at dotty.tools.dotc.util.Signatures$.countParams(Signatures.scala:501)
+	at dotty.tools.dotc.util.Signatures$.applyCallInfo(Signatures.scala:186)
+	at dotty.tools.dotc.util.Signatures$.computeSignatureHelp(Signatures.scala:94)
+	at dotty.tools.dotc.util.Signatures$.signatureHelp(Signatures.scala:63)
+	at scala.meta.internal.pc.MetalsSignatures$.signatures(MetalsSignatures.scala:21)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:51)
+
+Apr 03, 2023 12:17:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1440
+Apr 03, 2023 12:18:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1753
+Apr 03, 2023 12:20:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1929
+2023.04.03 12:23:51 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\cancerKmenas.scala
+Apr 03, 2023 12:26:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2618
+2023.04.03 12:27:26 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\cancerKmenas.scala
+2023.04.03 12:29:41 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomFOrest.scala
+Apr 03, 2023 12:33:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2961
+2023.04.03 12:33:18 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.03 12:34:37 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.03 12:34:40 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.03 12:47:09 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.03 12:50:02 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.05 11:31:05 INFO  Started: Metals version 0.11.11 in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program' for client Visual Studio Code 1.77.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/karke/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.05 11:31:09 INFO  time: initialize in 3.85s
+2023.04.05 11:31:11 WARN  Build server is not auto-connectable.
+2023.04.05 11:31:11 WARN  no build tool detected in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.05 11:31:11 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.05 11:31:15 INFO  no build target found for C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.06 11:34:56 INFO  Started: Metals version 0.11.11 in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program' for client Visual Studio Code 1.77.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/karke/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.06 11:35:00 INFO  time: initialize in 4s
+2023.04.06 11:35:02 WARN  Build server is not auto-connectable.
+2023.04.06 11:35:02 WARN  no build tool detected in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.06 11:35:02 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 11:35:06 INFO  no build target found for C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.06 11:35:08 INFO  time: code lens generation in 6.1s
+Apr 06, 2023 11:40:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 387
+Apr 06, 2023 11:46:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.04.06 11:53:38 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 12:00:46 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 12:05:55 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 12:12:06 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest1.scala
+2023.04.06 12:12:21 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 12:13:34 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest1.scala
+2023.04.06 12:14:03 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest1.scala
+2023.04.06 12:14:11 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 12:14:17 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 12:15:22 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest1.scala
+2023.04.06 12:30:23 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+Apr 06, 2023 12:34:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1915
+2023.04.06 12:34:46 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest1.scala
+2023.04.06 12:38:45 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest1.scala
+2023.04.06 12:40:31 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 12:41:28 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 14:11:25 INFO  Shutting down server
+2023.04.06 14:11:25 INFO  shutting down Metals
+2023.04.06 14:11:25 INFO  Exiting server
+2023.04.06 15:04:09 INFO  Started: Metals version 0.11.11 in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program' for client Visual Studio Code 1.77.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/karke/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.06 15:04:09 INFO  time: initialize in 0.61s
+2023.04.06 15:04:11 WARN  Build server is not auto-connectable.
+2023.04.06 15:04:11 WARN  no build tool detected in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.06 15:04:11 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala
+2023.04.06 15:04:15 INFO  no build target found for C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\randomForest\randomForest.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.06 17:58:08 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree\decisionTree.scala
+2023.04.06 17:58:20 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree\decisionTree1.scala
+2023.04.06 17:58:46 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree\decisionTree.scala
+2023.04.06 17:59:34 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\decisionTree.scala
+2023.04.06 17:59:39 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+Apr 06, 2023 6:03:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Toplevel definition header is defined in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/randomForest/randomForest.scala
+and also in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/decisionTree/decisionTree/decisionTree1.scala
+One of these files should be removed from the classpath.
+dotty.tools.dotc.core.TypeError: Toplevel definition header is defined in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/randomForest/randomForest.scala
+and also in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/decisionTree/decisionTree/decisionTree1.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2447)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$5(SymDenotations.scala:2411)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2467)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2023)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2074)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:811)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:703)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:879)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1020)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:925)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:925)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1020)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:149)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:207)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:99)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:63)
+
+Apr 06, 2023 6:06:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 490
+2023.04.06 18:08:36 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:08:38 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:14:33 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:17:30 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:21:14 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:23:19 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+Apr 06, 2023 6:24:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1134
+Apr 06, 2023 6:24:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1136
+Apr 06, 2023 6:24:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1137
+2023.04.06 18:25:10 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:26:23 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+Apr 06, 2023 6:28:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1390
+2023.04.06 18:29:35 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\avgTemp\avgTemp.scala
+2023.04.06 18:29:41 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\favouriteMovie\avgMovieRating\avgMovieRating.scala
+2023.04.06 18:29:46 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\favouriteMovie\eachUserFavMovie\favMovie.scala
+Apr 06, 2023 6:30:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Toplevel definition textFile is defined in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/avgTemp/avgTemp.scala
+and also in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/favouriteMovie/avgMovieRating/avgMovieRating.scala
+One of these files should be removed from the classpath.
+dotty.tools.dotc.core.TypeError: Toplevel definition textFile is defined in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/avgTemp/avgTemp.scala
+and also in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/favouriteMovie/avgMovieRating/avgMovieRating.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2447)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$5(SymDenotations.scala:2411)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2467)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2023)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2074)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:811)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:703)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:879)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1020)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:925)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:925)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1020)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:149)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:207)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:99)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:63)
+
+2023.04.06 18:30:18 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\maxTemp\maxTemp.scala
+2023.04.06 18:30:20 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\wordCount\wordCount.scala
+Apr 06, 2023 6:31:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1528
+Apr 06, 2023 6:31:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Toplevel definition textFile is defined in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/maxTemp/maxTemp.scala
+and also in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/wordCount/wordCount.scala
+One of these files should be removed from the classpath.
+dotty.tools.dotc.core.TypeError: Toplevel definition textFile is defined in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/maxTemp/maxTemp.scala
+and also in
+  C:/data/OneDrive - RCNJ/data/Programming/distrubated_program/Scala/wordCount/wordCount.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2447)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$5(SymDenotations.scala:2411)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2467)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2023)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2074)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:686)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:811)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:703)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:879)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:669)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:653)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1020)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:925)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:937)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:925)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1020)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:149)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:207)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:99)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:98)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:87)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:63)
+
+2023.04.06 18:41:18 WARN  Using indexes to guess the definition of splitData
+Apr 06, 2023 6:42:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2238
+Apr 06, 2023 6:43:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2325
+2023.04.06 18:43:50 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:48:29 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 18:55:11 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:29 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:32 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:32 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:33 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:33 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:33 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:33 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.06 19:11:33 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+Apr 06, 2023 7:20:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.04.06 19:21:02 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (1).scala
+2023.04.06 19:21:07 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (3).scala
+2023.04.06 19:21:13 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (1).scala
