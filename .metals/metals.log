@@ -531,3 +531,208 @@ INFO: Unsupported notification method: $/setTrace
 2023.04.06 19:21:02 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (1).scala
 2023.04.06 19:21:07 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (3).scala
 2023.04.06 19:21:13 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (1).scala
+2023.04.06 19:21:51 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (3).scala
+2023.04.06 19:22:08 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree (3).scala
+2023.04.06 19:22:20 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree.scala
+2023.04.06 19:22:33 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\decisionTree\decisionTree.scala
+2023.04.06 19:23:53 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.07 01:58:34 INFO  Shutting down server
+2023.04.07 01:58:34 INFO  shutting down Metals
+2023.04.07 01:58:34 INFO  Exiting server
+2023.04.10 11:31:03 INFO  Started: Metals version 0.11.11 in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program' for client Visual Studio Code 1.77.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/karke/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.10 11:31:04 INFO  time: initialize in 1.43s
+2023.04.10 11:31:10 WARN  Build server is not auto-connectable.
+2023.04.10 11:31:10 WARN  no build tool detected in workspace 'C:\data\OneDrive - RCNJ\data\Programming\distrubated_program'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.10 11:31:10 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala
+2023.04.10 11:31:10 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\pigStorage.scala
+2023.04.10 11:31:21 INFO  no build target found for C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\decisionTree\autoDecisionTree\autoDecisionTree.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.10 11:31:28 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\pigStorage\pigStorage.scala
+2023.04.10 11:31:38 INFO  time: code lens generation in 3.89s
+2023.04.10 11:31:38 INFO  time: code lens generation in 9.1s
+2023.04.10 11:31:38 INFO  time: code lens generation in 4.56s
+2023.04.10 11:31:38 INFO  time: code lens generation in 4.51s
+2023.04.10 11:31:38 INFO  time: code lens generation in 9.11s
+2023.04.10 11:31:38 INFO  time: code lens generation in 9.12s
+2023.04.10 11:31:38 INFO  time: code lens generation in 4.53s
+2023.04.10 11:31:38 INFO  time: code lens generation in 4.59s
+2023.04.10 11:31:38 INFO  time: code lens generation in 9s
+2023.04.10 11:31:38 INFO  time: code lens generation in 1.96s
+2023.04.10 11:31:38 INFO  time: code lens generation in 27s
+2023.04.10 11:31:38 ERROR text document: file:///C:/data/OneDrive%20-%20RCNJ/data/Programming/distrubated_program/Scala/pigStorage.scala
+java.nio.file.NoSuchFileException: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\pigStorage.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$2(InteractiveSemanticdbs.scala:90)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:90)
+	at java.util.HashMap.compute(HashMap.java:1316)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2770)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.04.10 11:31:38 ERROR text document: file:///C:/data/OneDrive%20-%20RCNJ/data/Programming/distrubated_program/Scala/pigStorage.scala
+java.nio.file.NoSuchFileException: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\Scala\pigStorage.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$2(InteractiveSemanticdbs.scala:90)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:90)
+	at java.util.HashMap.compute(HashMap.java:1316)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2770)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.04.10 11:31:38 INFO  time: code lens generation in 26s
+2023.04.10 11:31:38 INFO  time: code lens generation in 27s
+Apr 10, 2023 11:32:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
+2023.04.10 11:32:47 WARN  no build target for: C:\data\OneDrive - RCNJ\data\Programming\distrubated_program\dataSet\pig\pigStorage\pigStorage.scala
+Apr 10, 2023 11:49:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at scala.meta.internal.metals.formatting.MultilineString.$anonfun$wasTripleQuoted$1(MultilineString.scala:268)
+	at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:190)
+	at scala.meta.internal.metals.formatting.MultilineString.wasTripleQuoted(MultilineString.scala:267)
+	at scala.meta.internal.metals.formatting.MultilineString.contribute(MultilineString.scala:438)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$5(OnTypeFormattingProvider.scala:69)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.loop$1(MetalsEnrichments.scala:241)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.acceptFirst(MetalsEnrichments.scala:250)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$4(OnTypeFormattingProvider.scala:68)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$3(OnTypeFormattingProvider.scala:56)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$2(OnTypeFormattingProvider.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.format(OnTypeFormattingProvider.scala:53)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onTypeFormatting$1(MetalsLspService.scala:1584)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Apr 10, 2023 12:12:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 11 out of bounds for length 11
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 11 out of bounds for length 11
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 11 out of bounds for length 11
+	at scala.meta.internal.metals.formatting.MultilineString.$anonfun$wasTripleQuoted$1(MultilineString.scala:268)
+	at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:190)
+	at scala.meta.internal.metals.formatting.MultilineString.wasTripleQuoted(MultilineString.scala:267)
+	at scala.meta.internal.metals.formatting.MultilineString.contribute(MultilineString.scala:438)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$5(OnTypeFormattingProvider.scala:69)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.loop$1(MetalsEnrichments.scala:241)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.acceptFirst(MetalsEnrichments.scala:250)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$4(OnTypeFormattingProvider.scala:68)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$3(OnTypeFormattingProvider.scala:56)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$2(OnTypeFormattingProvider.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.format(OnTypeFormattingProvider.scala:53)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onTypeFormatting$1(MetalsLspService.scala:1584)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Apr 10, 2023 12:15:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.ArrayIndexOutOfBoundsException: Index 15 out of bounds for length 15
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: Index 15 out of bounds for length 15
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 15 out of bounds for length 15
+	at scala.meta.internal.metals.formatting.MultilineString.$anonfun$wasTripleQuoted$1(MultilineString.scala:268)
+	at scala.collection.immutable.Range.foreach$mVc$sp(Range.scala:190)
+	at scala.meta.internal.metals.formatting.MultilineString.wasTripleQuoted(MultilineString.scala:267)
+	at scala.meta.internal.metals.formatting.MultilineString.contribute(MultilineString.scala:438)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$5(OnTypeFormattingProvider.scala:69)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.loop$1(MetalsEnrichments.scala:241)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionList.acceptFirst(MetalsEnrichments.scala:250)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$4(OnTypeFormattingProvider.scala:68)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$3(OnTypeFormattingProvider.scala:56)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.$anonfun$format$2(OnTypeFormattingProvider.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.formatting.OnTypeFormattingProvider.format(OnTypeFormattingProvider.scala:53)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onTypeFormatting$1(MetalsLspService.scala:1584)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
