@@ -736,3 +736,6 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 15 out of bounds for 
 	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
 	... 3 more
 
+2023.04.10 14:33:51 INFO  Shutting down server
+2023.04.10 14:33:51 INFO  shutting down Metals
+2023.04.10 14:33:51 INFO  Exiting server
