@@ -1,0 +1,11 @@
+age,gender,income,purchased
+25,Male,45000,No
+30,Female,55000,Yes
+40,Male,70000,Yes
+45,Female,60000,Yes
+35,Male,80000,Yes
+20,Female,35000,No
+50,Male,90000,Yes
+28,Female,40000,No
+32,Male,60000,No
+38,Female,75000,Yes
