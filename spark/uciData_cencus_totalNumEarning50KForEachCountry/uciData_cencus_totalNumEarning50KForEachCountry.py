@@ -2,7 +2,7 @@ import sys
 
 from pyspark import SparkContext, SparkConf
 
-#  the total number of people earning over 50k with bachelor, master and HS-grad
+#   number of people earning over 50k for each countries
 
 if __name__ == "__main__":
         # create spark contxt
@@ -15,16 +15,16 @@ if __name__ == "__main__":
         lines = lines.map(lambda line: line.split(", "))
 
         # mapper code
-        mappedResult = lines.map(lambda line: ((str(line[3]), str(line[14])), 1))
+        mappedResult = lines.map(lambda line: ((str(line[13]), str(line[14])), 1))
 
         # reducer code
         educationCount = mappedResult.reduceByKey(lambda x, y: x + y)
 
         # calculating the average
-        educationCountFilterd = educationCount.filter(lambda line: line[0][1] == ">50K" and line[0][0] in {"Bachelors", "HS-grad", "Masters"})
+        educationCountFilterd = educationCount.filter(lambda line: line[0][1] == ">50K")
 
-        total = 0
         for line in educationCountFilterd.collect():
-                total = total + line[1]
+                print(line)
 
-        print("the total number of people earning over 50k with bachelor, master and HS-grad is ", total)
+        # output
+        result.saveAsTextFile("/output/output_uciData_cencus_totalNumEarning50KForEachCountry")
