@@ -1,0 +1,6 @@
+('Asia', 'Chinese', 1034)
+('Europe', 'Other Indo-European', 166)
+('Africa', 'Others', 234)
+('Oceania', 'Others', 205)
+('N.America', 'English', 257)
+('S.America', 'Spanish', 146)

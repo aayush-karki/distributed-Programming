@@ -1,0 +1,6 @@
+('Asia', ('China', 1008))
+('Europe', ('Germany-FRG', 61))
+('Africa', ('Nigeria', 56))
+('Oceania', ('Indonesia', 157))
+('N.America', ('USA', 231))
+('S.America', ('Brazil', 119))

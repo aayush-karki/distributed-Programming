@@ -6,13 +6,18 @@ import org.apache.spark.mllib.clustering._
 import org.apache.spark.mllib.tree._
 import org.apache.spark.mllib.tree.model._
 
-val text = sc.textFile("/input/autoInput.csv")
+val text = sc.textFile("/input/heart.txt")
+
+def splitAndConvertData (rawDataStr: String) : Array[Double] = {
+        val splitedLine = rawDataStr.split(",")
+        val rawData =  splitedLine.map{case "?" => 0; case a => a.toDouble}
+        return rawData
+}
 
 val data = text.map(line => {
-        val splitedLine = line.split(",")
-        val rawData =  splitedLine.slice(22,26).map{case "?" => 0; case a => a.toDouble}
-        val featuresVector = Vectors.dense(rawData.slice(0,3))
+        val rawData =  splitAndConvertData(line)
         val label = rawData.last
+        val featuresVector = Vectors.dense(rawData.dropRight(1))
         println(label)
         println(featuresVector)
         LabeledPoint(label, featuresVector)
@@ -20,10 +25,9 @@ val data = text.map(line => {
 
 val categoricalFeaturesInfo = Map[Int, Int]()
 
-val model = DecisionTree.trainRegressor(data, categoricalFeaturesInfo, "variance", 3, 8)
+val model = DecisionTree.trainRegressor(data, categoricalFeaturesInfo, "variance", 14, 16)
 
-
-val testData = Vectors.dense(5000,21,27)
+val testData = Vectors.dense(splitAndConvertData("65,1,4,130,275,0,1,115,1,1,2,?,?"))
 val prediction = model.predict(testData)
 println(prediction)
 
